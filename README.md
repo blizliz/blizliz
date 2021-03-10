@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **blizliz/blizliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Учебные проекты
+
+- [ВКР: Эмотивный анализ художетвенного произведения](https://github.com/blizliz/sentiment-analysis)
+- [Приложение для построения маршрута](https://github.com/blizliz/route_to_hell)
+- [Аппроксимация функций с использованием вейвлет-анализа](https://github.com/blizliz/MAI/blob/master/NumMethods/CW/report.pdf)
+- [Система генерация синтетических данных с 3D лицами](https://github.com/blizliz/3dface_dataset_generation)
